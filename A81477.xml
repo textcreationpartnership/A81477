@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digitus dei. A faithful relation and collection of seven wonderful and remarkable judgements, lately inflicted by God on several persons using execrations and wicked wishes to themselves which suddenly came dreadfully to pass: viz. 1. A woman at Atherbury in Oxford-shire burnt to ashes all on one side, when there was no fire neer her, in May 1677. ... 7. A man in Suffolk that used to wish he might rot if he wronged people, before his death perisht away in a strange manner, perfect chalk-stones dropping out of the calves of his leggs. With an account of the circumstances of each judgement; and a most notable speech of a person of quality on the ladder about to be hang'd. With allowance. Ro L'Estrange.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81477</idno>
+            <idno type="STC">Wing D1472aA</idno>
+            <idno type="STC">ESTC R230246</idno>
+            <idno type="EEBO-CITATION">99899563</idno>
+            <idno type="PROQUEST">99899563</idno>
+            <idno type="VID">153904</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81477)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153904)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2387:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Digitus dei. A faithful relation and collection of seven wonderful and remarkable judgements, lately inflicted by God on several persons using execrations and wicked wishes to themselves which suddenly came dreadfully to pass: viz. 1. A woman at Atherbury in Oxford-shire burnt to ashes all on one side, when there was no fire neer her, in May 1677. ... 7. A man in Suffolk that used to wish he might rot if he wronged people, before his death perisht away in a strange manner, perfect chalk-stones dropping out of the calves of his leggs. With an account of the circumstances of each judgement; and a most notable speech of a person of quality on the ladder about to be hang'd. With allowance. Ro L'Estrange.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing (CD-ROM edition) reports title as: Digitus Dei. A faithful relation . . . of seven wonderful judgements.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Judgment of God --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153904:1" rendition="simple:additions"/>
+            <p>
+               <hi>DIGIT<g ref="char:V">Ʋ</g>S DEI.</hi>
+            </p>
+            <p>A FAITHFUL RELATION and COLLECTION OF Seven wonderful and remarkable, Judgements, lately inflicted by God on ſeveral perſons uſing Execrations and wicked Wiſhes to themſelves; which ſuddenly came dreadfully to paſs: <hi>VIZ.</hi>
+               <list>
+                  <item>1. A woman at <hi>Atherbury</hi> in <hi>Oxford</hi>-ſhire burnt to aſhes all on one ſide, when there was no fire neer her, in <hi>May</hi> 1677.</item>
+                  <item>2. <hi>John Duncalf,</hi> who denying a Bible that he had ſtoln, and wiſhing that he might Rot if he had it, did by degrees Rot away till he died, in <hi>July</hi> 1677. at <hi>King-Swinford</hi> in <hi>Stafford</hi>-ſhire.</item>
+                  <item>3. A woman in <hi>Newgate</hi> ſtruck deaf, blinde and dumb, accor<g ref="char:EOLhyphen"/>ding to her wiſh, on Saturday the 14 of <hi>July</hi> 1677.</item>
+                  <item>4. A man Curſing at Cards in the <hi>Marſhalſeys</hi> in <hi>Southwark,</hi> and wiſhing he might <hi>never ſtir,</hi> immediately fell down dead.</item>
+                  <item>5. A woman neer the <hi>Minories,</hi> who having forſworn 2 <hi>s.</hi> was (as 'tis conceived) actually poſſeſt with a Devil, and deſtroyed in the preſence of hundreds of people, <hi>October</hi> 1675.</item>
+                  <item>6. A woman great with childe neer <hi>Exeter,</hi> aſſerting a Lye, with a Wiſh that otherwiſe ſhe might never be delivered; both ſhe and her childe miſerably periſhed.</item>
+                  <item>7. A man in <hi>Suffolk</hi> that uſed to wiſh he might Rot if he wron<g ref="char:EOLhyphen"/>ged people, before his death periſht away in a ſtrange manner, perfect Chalk-ſtones dropping out of the calves of his leggs.</item>
+               </list>
+            </p>
+            <p>With an Account of the Circumſtances of each Judgement; and a moſt Nota<g ref="char:EOLhyphen"/>ble Speech of a perſon of Quality on the Ladder about to be hang'd.</p>
+            <q>
+               <p>Is not deſtruction to the wicked, and a STRANGE Puniſhment to the workers of iniqui<g ref="char:EOLhyphen"/>ty?</p>
+               <bibl>Job 31.3.</bibl>
+            </q>
+            <q>
+               <p>All theſe things happened unto them for Enſamples, and are written for our admonition,</p>
+               <bibl>1 Cor. 10.11.</bibl>
+            </q>
+            <q>
+               <p>That all Iſrael may hear and fear; and do no more any ſuch wickedneſs,</p>
+               <bibl>Deut. 13.11.</bibl>
+            </q>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>With Allowance.</p>
+                        <closer>
+                           <signed>Ro L'Eſtrange.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>D. M.</hi> 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153904:2"/>
+            <pb n="3" facs="tcp:153904:2" rendition="simple:additions"/>
+            <head>Seven remarkable Judgements, <hi>&amp;c.</hi>
+            </head>
+            <p>'TIs obſerv'd by Phyſicians, that every Country extra<g ref="char:EOLhyphen"/>ordinarily liable to a Diſeaſe, doth likewiſe yield ſome particular Herb or Remedy againſt that Di<g ref="char:EOLhyphen"/>ſtemper. In this Age, abounding with Fools that ſay, not onely in their hearts, but with their blaſphemous lips, <hi>That there is no God,</hi> wherein ſo many poſitively deny an Om<g ref="char:EOLhyphen"/>nipotent Providence, and almoſt all live as if they did not re<g ref="char:EOLhyphen"/>gard it, it hath pleaſed the Divine Majeſty to manifeſt his power by more frequent and immediate Examples amongſt us: For (as the Royal Pſalmiſt ſaith) <hi>The Lord is known by his judgements that he executeth,</hi> Pſal. 9.16. Of which late dread<g ref="char:EOLhyphen"/>ful Inſtances I have thought it a ſeaſonable ſervice to make this Collection, conſiſting of ſuch as have been moſt notorious and remarkable; not doubting but many more might be ad<g ref="char:EOLhyphen"/>ded, if Miniſters and others would but be at the pains to ob<g ref="char:EOLhyphen"/>ſerve and communicate them, than which I know not any work can be more neceſſary and uſeful in a profane and unbe<g ref="char:EOLhyphen"/>lieving Generation.</p>
+            <p>I ſhall begin with a woman at <hi>Atherbury</hi> in <hi>Oxfordſhire;</hi> who keeping a ſmall Ale-houſe, had too much addicted her ſelf to lewd Speeches, ſometimes Oaths, and frequently Curſes, as well on her ſelf as others. It happened about the beginning of <hi>May</hi> this preſent year 1677, being all-alone in her houſe, a Neighbour-woman came thither for ſome ſtrong drink, which ſhe having drawn and received Twelve pence or ſome ſuch piece of money, inſtead of juſtly returning the full Change,
+<pb n="4" facs="tcp:153904:3"/>ſtopt and abated Two pence or Three pence out of it, beſides what the preſent drink came to, pretending there was former<g ref="char:EOLhyphen"/>ly ſo much owing to her; which the other reſolutely denying, the Hoſteſs began to ſwear, and uſe ſeveral abominable Wiſhes, ſaying, <hi>God damn me, and the Devil burn me, if it be not ſo;</hi> which laſt words ſhe often repeated: However, the other con<g ref="char:EOLhyphen"/>fident perhaps in the certainty of her knowledge to the con<g ref="char:EOLhyphen"/>trary, ſtill perſiſting to deny it, and refuſing to be gone with<g ref="char:EOLhyphen"/>out the reſt of her money, the Ale-wife at laſt violently thruſt her out of her houſe, and to prevent her coming in again, ſhut the door and lockt it againſt her. Thus with many horrid ſin<g ref="char:EOLhyphen"/>ful Expreſſions (if not down-right Perjuries) this poor wretch made ſhift to wrangle her Neighbour out of this inconſidera<g ref="char:EOLhyphen"/>ble ſum, but paid lamentably dear for the ſame: For behold! by a ſtupendious and terrible Jubgement from Heaven, as we cannot but ſuppoſe, ſhe was immediately call'd to an Account, and Burnt to death, as ſhe had fooliſhly and wickedly wiſht, in a wonderful and unheard-of manner. For having ſo ſhut and lockt the door, the ſame was not opened, nor any further news heard of her, till ſeveral hours after, her Husband chanc'd to come home, and wondring to finde his door faſt ſhut in the middle of the day, without being able to make any body an<g ref="char:EOLhyphen"/>ſwer within, after much inquiry forced open the door, and en<g ref="char:EOLhyphen"/>tring with one or two of his Neighbours, their eyes encoun<g ref="char:EOLhyphen"/>tred one of the moſt ſad and diſmal Spectacles that ever Mortal beheld: for in the midſt of the floot lay the Reliques of his Wife; one ſide of her Body, and the Cloaths thereupon, from the ſoal of her foot to the crown of her head, being Conſu<g ref="char:EOLhyphen"/>med and Burnt to Aſhes, and nothing left but the Skeleton or Bones; whereas the other ſide remained whole, and the Cloaths thereon not ſo much as touch'd or ſindg'd, though it was ob<g ref="char:EOLhyphen"/>ſerv'd, that the fleſh and skin there was all turn'd black, as if it had been blaſted with Lightning; but no viſible fire neer her, nor indeed had there been any in the houſe that day. <hi>Conſi<g ref="char:EOLhyphen"/>der this, all you that forget God,</hi> Pſal. 50.22. and remember that to the wicked, <hi>Our God is a conſuming fire.</hi>
+            </p>
+            <pb n="5" facs="tcp:153904:3" rendition="simple:additions"/>
+            <p> The next Judgement is yet more aſtoniſhing, happening on the perſon of one <hi>John Duncalfe,</hi> born in the Pariſh of <hi>Codſole</hi> neer <hi>Wolver-hampton,</hi> but lately living in the Pariſh of <hi>Kings-Swinford</hi> in the County of <hi>Stafford,</hi> by Trade bred up a Wheel<g ref="char:EOLhyphen"/>wright, but of late leading an idle pilfering kind of life; So that in <hi>March</hi> this preſent year 1677, he did ſteal a Bible from one Goodwife <hi>Bays,</hi> and ſold it to one <hi>Norton</hi> of <hi>Wombern,</hi> and being queſtion'd for it, he poſitively denied it, and wiſht <hi>He might Rot alive, and his hands Rot off,</hi> &amp;c. <hi>if he had meddled with it:</hi> But there is a God that recompenceth the ungodly, and that ſometimes according to their own wicked Wiſhes: For as ſoon as he had ſold this Bible, he was taken with a Trem<g ref="char:EOLhyphen"/>bling as it were an Ague, and immediately his Hands began to Rot, and then he look'd on it as the hand of God for his Ly<g ref="char:EOLhyphen"/>ing Imprecations. The remarkableneſs of his Puniſhment drew many from all parts to behold him; and being poor and unable, by reaſon of this rotting of his hands, to do any work, and yet ſeeming otherwiſe in health and very good ſtomach, he was laid in a Barn, a Tender appointed to look after him, and Victuals provided for him. On <hi>April</hi> 26, being viſited by a Mi<g ref="char:EOLhyphen"/>niſter of that County, he obſerv'd his Condition to be thus: One hand ſo rotted off that it hung onely by the Muſcles, no skin nor fleſh on the wriſt for four inches, the whole hand drawn up to<g ref="char:EOLhyphen"/>gether; ſo that both for figure and colour it reſembled a Beaſt<g ref="char:EOLhyphen"/>hoof, which did all ſoon after drop off: and ſo he continu'd con<g ref="char:EOLhyphen"/>ſuming by degrees till the middle of <hi>June;</hi> at which time he had neither Hand nor Leg, but all rotted and dropt off from his wriſts and knees, through which the bones appeared, but com<g ref="char:EOLhyphen"/>paſs'd with corrupt and ulcerous fleſh fill'd with Maggots; and to prevent flye-blowing, uſually cover'd with Dock-leaves. The firſt Hand and his two Legs were buried <hi>May</hi> the 13th, and five days afterwards the other Hand came off. During all this time he could Eat, Drink, and Sleep, and as far as could be perceived had none or very little pain. At firſt he deſired people to pray for him, but afterwards became more ſurly and moroſe, refuſing to diſcourſe with Miniſters or other godly
+<pb n="6" facs="tcp:153904:4"/>Viſitants; and not ſhewing that Repentance as all good men hoped ſo terrible a Viſitation might have wrought in him: But rotting on thus by degrees, about the later end of <hi>June</hi> he gave up the Ghoſt. A Spectacle ſo ſad, that we may apply that Saying of Holy Writ, though ſpoken on another occaſion; Eye hath not ſeen, nor ear heard the like long-continuing Mo<g ref="char:EOLhyphen"/>nument of Judgement, as we verily believe, in any Age.</p>
+            <p>'Tis within theſe two years laſt paſt, that one that was pri<g ref="char:EOLhyphen"/>ſoner in the <hi>Marſhalſeys</hi> for Debt being playing at Cards, upon ſome difference about their Game, fell a ſwearing and curſing in a lamentable manner; and amongſt other lewd ſpeeches, often wiſht he might <hi>never ſtir more</hi> if it were not as he pre<g ref="char:EOLhyphen"/>tended: when behold! ſcarce were the words out of his mouth, but he falls down dead in the place without ſpeaking a word, or ſtirring either hand or foot. Which Example we the rather preſs to your conſideration, becauſe many men that would be thought ſober, and of good converſation, have got an ill habit of ſaying <hi>Ne'r ſtir,</hi> on every trivial occaſion; which we hope this ſad Inſtance will warn them to leave off: Nor are thoſe leſs to be blam'd who hope to eſcape the puniſh<g ref="char:EOLhyphen"/>ment of Swearers, <hi>&amp;c.</hi> by mincing their Oaths, as <hi>I'gad, <g ref="char:V">Ʋ</g>dds<g ref="char:EOLhyphen"/>budd,</hi> &amp;c. which indeed are no leſs than ſwearing by the Holy Name, and pretious Blood of God: And therefore <hi>be not de<g ref="char:EOLhyphen"/>ceived, God will not be mocked,</hi> Gal. 6.7.</p>
+            <p>In the month of <hi>October</hi> in the year 1675, a woman living neer <hi>Well-cloſe,</hi> and not far from <hi>Eaſt-ſmithfield<g ref="char:punc">▪</g>
+               </hi> having wron<g ref="char:EOLhyphen"/>ged a woman of Two-ſhillings, by taking the ſame away from a little childe to whom it was given to play with, being char<g ref="char:EOLhyphen"/>ged therewith before the Juſtice, fell down upon her knees, wiſht that <hi>God would Damn her, and the Dveil forthwith take poſſeſſion of her,</hi> and many other the like vile Imprecations, if ſhe had the Money; yet in truth, as ſhe afterwards confeſs'd, had pilfer'd the ſame: And Divine Juſtice dealt with her accor<g ref="char:EOLhyphen"/>ding to her Wiſh, by giving permiſſion to the Devil; who ſud<g ref="char:EOLhyphen"/>denly thereupon (as ſhe related, and moſt that ſaw her believe) really poſſeſt her, and would ſeveral times have choak'd her;
+<pb n="7" facs="tcp:153904:4" rendition="simple:additions"/>inſomuch that coming on the Lords day into a publick Congre<g ref="char:EOLhyphen"/>gation, not far from the place aforeſaid, ſhe was before them all lifted up above the ground, &amp; exceedingly tormented, with prodigious ſwelling in her throat and danger of being choak'd, and then ſhe would deſire them to pray for her, and ſeem to ſtrive with the Devil in a ſtrange Agony, crying out, <hi>Be gone, be gone, Satan! I will ſerve God, I will ſerve God,</hi> &amp;c. But at laſt, as the Miniſter was in his Prayer, was lifted up by inviſible means, and flung down headlong to the ground, whence ſhe was taken up dead. The truth hereof is ſufficiently known to hundreds about this City, who with Terrour were Eye-wit<g ref="char:EOLhyphen"/>neſſes.</p>
+            <p>'Tis not four years ſince a woman neer <hi>Exeter</hi> being great with Childe, and having uſed her ſelf to a wicked cuſtome of ſaying, when any thing was denied or queſtioned, <hi>Let me never be delivered,</hi> or <hi>Let me periſh with what I go with if it be not ſo:</hi> When her pains come upon her at the Expiration of her Rec<g ref="char:EOLhyphen"/>koning, though there appeared no natural Impediments, but rather all the ſignes of a happy Chide-birth, yet could ſhe not by any Art be delivered; but after much languiſhing Torture both ſhe and her unborn Infant periſhed according to her Wiſhes.</p>
+            <p>Though divers years ſince, yet 'tis ſtill within the memory of man, and can be atteſted by ſeveral ſtill living, how a Gen<g ref="char:EOLhyphen"/>tleman living at St. <hi>Edmunds</hi> in <hi>Suffolk,</hi> being an Uſurer and great Oppreſſor and Grinder of the Poor, under pretence of kindneſs, the better to colour his Ill deſignes, was frequently wont to wiſh that he <hi>might Rot, if he wrong'd them:</hi> But God made him an Example of Vengeance: For in his later years he periſhed away in a ſtrange manner, perfect Chalk-ſtones be<g ref="char:EOLhyphen"/>ing generated in and dropping out of the Calves of his Legs; of which at length he miſerably died.</p>
+            <p>I ſhall conclude with a remarkable Speech and Confeſſion of a Perſon of Quality, who was hang'd the 20th of <hi>Nov.</hi> 1615, on <hi>Tower-hill,</hi> for being Acceſſary to the horrid Murther of the Ingenious Sir <hi>Tho. Overbury.</hi> This Gentleman in an excellent
+<pb n="8" facs="tcp:153904:5"/>and penitent Speech made immediately before his Death upon the Ladder, has this paſſage <hi>verbatim,</hi> taken out of the exact Copy then printed, <hi>p.</hi> 153. <hi>Viz.</hi>
+               <q>I had almoſt forgotten to ſhew you a ſtrange thing which God brought to my memory the laſt night, which was this: I confeſs I have been a great Gameſter, and eſpecially on the other ſide have waſted and plaid ma<g ref="char:EOLhyphen"/>ny ſums of money, which exhauſted a great part of my Means; which I perceiving, vowed ſperiouſly (not ſlightly or unadviſedly) to the Lord in my Vow and Prayers, <hi>Lord, let me be hang'd, if ever I play any more:</hi> Which not long after is moſt juſtly come upon me, whereof you are all Eye-witneſſes, becauſe a thouſand times ſince I have broken this my Vow.</q>
+            </p>
+            <epigraph>
+               <q>
+                  <hi>Lord, when thy hand is lifted up, they will not ſee: but they ſhall ſee, and be aſhamed.</hi> For <hi>they ſhall not live: thou haſt viſited and deſtroyed them, and their memory ſhall periſh,</hi>
+               </q>
+               <bibl>Iſai. 26.11. &amp; 14. <hi>verſ.</hi>
+               </bibl>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153904:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
